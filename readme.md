@@ -16,17 +16,21 @@
 
 El camino para llegar a la versión final fue largo. Aquí hay un vistazo a los prototipos anteriores desarrollados en otras tecnologías.
 
-Versión en Rust (Arte ASCII) | 
-https://github.com/Guzzman00/Rumble-Ball/blob/main/d7b1ba03-1480-457f-8db0-6c0dd5fe8d41.jpg
+**Versión en Rust (Arte ASCII)**
 
-Versión en Java (Prototipo 2D) | 
-https://github.com/Guzzman00/Rumble-Ball/blob/main/0de340e0-1277-48cc-bce9-ebfb4b137fc0.jpg
+![Versión en Rust (Arte ASCII)](https://github.com/Guzzman00/Rumble-Ball/raw/main/d7b1ba03-1480-457f-8db0-6c0dd5fe8d41.jpg)
 
-Versión en JavaScript (primera persona y tercera persona para hacer pruebas, esta última en foto no está disponible) | 
-https://github.com/Guzzman00/Rumble-Ball/blob/main/df1e730b-c769-4ff5-9994-1756bde339ed.jpg
+**Versión en Java (Prototipo 2D)**
 
-Versión en Scala.js |
-https.github.com/Guzzman00/Rumble-Ball/blob/main/6fe4bb61-a6c7-4f37-9717-0f592b76fd19.jpg 
+![Versión en Java (Prototipo 2D)](https://github.com/Guzzman00/Rumble-Ball/raw/main/0de340e0-1277-48cc-bce9-ebfb4b137fc0.jpg)
+
+**Versión en JavaScript (primera persona y tercera persona para hacer pruebas, esta última en foto no está disponible)**
+
+![Versión en JavaScript](https://github.com/Guzzman00/Rumble-Ball/raw/main/df1e730b-c769-4ff5-9994-1756bde339ed.jpg)
+
+**Versión en Scala.js**
+
+![Versión en Scala.js](https://github.com/Guzzman00/Rumble-Ball/raw/main/6fe4bb61-a6c7-4f37-9717-0f592b76fd19.jpg) 
 
 ## **🚀 Cómo Jugar**
 
@@ -42,21 +46,25 @@ Para ejecutar el proyecto en tu máquina local, sigue estos pasos.
 
 ### **Instrucciones de Ejecución**
 
-1. **Clonar el Repositorio:** Abre una terminal o Git Bash y clona el proyecto.  
+1. **Clonar el Repositorio:** Abre una terminal o Git Bash y clona el proyecto. 
+ 
    git clone https://github.com/Guzzman00/Rumble-Ball.git  
+
    cd Rumble-Ball
 
 2. **Abrir con un IDE:** Abre la carpeta del proyecto con IntelliJ IDEA para explorar el código.  
 
 3. **Transpilar a JavaScript con SBT:** Dentro de la carpeta del proyecto, ejecuta la terminal de SBT.
+
     fastOptJS
 
-5. **Desplegar localmente con Deno:** Dentro de la carpeta del proyecto, ejecuta la terminal.   
+5. **Desplegar localmente con Deno:** Dentro de la carpeta del proyecto, ejecuta la terminal.  
+ 
     deno run --allow-net --allow-read https://deno.land/std/http/file_server.ts
   
 6. **Abrir el Juego:** Ingresa con el link Network que proporciona Deno.
   
-7. **¡A Jugar\!:** Haz clic en la ventana del juego para empezar.
+7. **¡A Jugar!:** Haz clic en la ventana del juego para empezar.
 
 ## **🛠️ Stack Tecnológico**
 
