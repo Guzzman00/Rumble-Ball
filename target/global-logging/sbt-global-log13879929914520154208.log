@@ -1,0 +1,6 @@
+[debug] > Exec(fastOptJS, None, None)
+[debug] Evaluating tasks: Compile / fastOptJS
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Global IR cache stats: reused: 0 -- invalidated: 22 -- trees read: 0
+[success] Total time: 4 s, completed 11-06-2025 16:42:43
+[debug] > Exec(idea-shell, None, None)

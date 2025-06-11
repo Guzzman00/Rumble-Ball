@@ -1,0 +1,23 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guzzm\Desktop\rumble-ball\src\main\scala\rumble-ball1p.scala:191:46: value Clock is not a member of rumbleball.Three[0m
+[0m[[0m[31merror[0m] [0m[0m    val clock = js.Dynamic.newInstance(THREE.Clock)()[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guzzm\Desktop\rumble-ball\src\main\scala\rumble-ball1p.scala:216:46: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.scalajs.js.Dynamic[0m
+[0m[[0m[31merror[0m] [0m[0merror after rewriting to playerVelocity.updateDynamic("x")(moveDirection.x.$times(playerSpeed))[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a wrong Dynamic method signature?[0m
+[0m[[0m[31merror[0m] [0m[0m        playerVelocity.x = moveDirection.x * playerSpeed[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guzzm\Desktop\rumble-ball\src\main\scala\rumble-ball1p.scala:217:46: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.scalajs.js.Dynamic[0m
+[0m[[0m[31merror[0m] [0m[0merror after rewriting to playerVelocity.updateDynamic("z")(moveDirection.z.$times(playerSpeed))[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a wrong Dynamic method signature?[0m
+[0m[[0m[31merror[0m] [0m[0m        playerVelocity.z = moveDirection.z * playerSpeed[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guzzm\Desktop\rumble-ball\src\main\scala\rumble-ball1p.scala:237:15: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.scalajs.js.Dynamic[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m          if (wallBox.intersectsBox(playerBox)) {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

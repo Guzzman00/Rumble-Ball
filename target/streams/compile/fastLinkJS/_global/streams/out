@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\guzzm\Desktop\rumble-ball\target\scala-2.13\rumble-ball-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 1504828 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 70565 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 1609411 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 396142 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Elidable constructors: 7358 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 2915 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 3396720 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 3886259 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 235863 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 14721 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 253692 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 7025 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 2005 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 21590 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 150248 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 3859706 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 282300 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 346[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 1130[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Post transforms: total: 1776 -- nested: 23 -- nested avoided: 180[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 4344703 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 413105 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total modules: 1; re-written: 1[0m
